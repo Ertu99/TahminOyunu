@@ -1,0 +1,15 @@
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\bin\Debug\net7.0\TahminOyunu.exe
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\bin\Debug\net7.0\TahminOyunu.deps.json
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\bin\Debug\net7.0\TahminOyunu.runtimeconfig.json
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\bin\Debug\net7.0\TahminOyunu.dll
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\bin\Debug\net7.0\TahminOyunu.pdb
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.csproj.AssemblyReference.cache
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.AssemblyInfoInputs.cache
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.AssemblyInfo.cs
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.dll
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\refint\TahminOyunu.dll
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.pdb
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\TahminOyunu.genruntimeconfig.cache
+C:\Users\ertug\OneDrive\Masaüstü\dotnet\TahminOyunu\obj\Debug\net7.0\ref\TahminOyunu.dll
